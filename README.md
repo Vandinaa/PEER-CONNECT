@@ -1,1 +1,2 @@
 # PEER-CONNECT
+The objective of "Peer Connect" is to create an inclusive online collaborative learning platform where students can connect, form study groups, engage in interactive study sessions, share educational resources, effectively manage study sessions, and participate in subject-specific academic discussions. By fostering a sense of community and knowledge sharing, "Peer Connect" aims to empower students in their educational journeys, providing them with a user-focused and enriching learning experience that excels the limitations of traditional and online education.
